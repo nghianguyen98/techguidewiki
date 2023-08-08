@@ -1,0 +1,270 @@
+
+
+  .theme-doc-footer{
+    display: none;
+  }
+  *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  .navbar__brand{
+    margin-left: 30px;
+  }
+  .wapperap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  height: 80vh;
+  overflow-y: hidden;
+  }
+  .content{
+    padding: 1rem 1rem 1rem 5rem;
+    max-width: 800px;
+    width: 1100px;
+  }
+
+  .content h3{
+    font-size: 45px;
+    font-weight: 400;
+  }
+  .content p{
+    color: #637792;
+    font-size: 1rem;
+    letter-spacing: -.04em;
+    line-height: 32px;
+    
+  }
+  
+.content a {
+  position: relative;
+  display: inline-block;
+  padding: 10px 40px;
+  color: #6def0e;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 40px;
+  letter-spacing: 4px;
+  font-weight: 600;
+}
+
+.content a:hover {
+  background: #6def0e;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #6def0e,
+              0 0 25px #6def0e,
+              0 0 50px #6def0e,
+              0 0 100px #6def0e;
+}
+
+.content a span {
+  position: absolute;
+  display: block;
+}
+
+.content a span:nth-child(1) {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #6def0e);
+  animation: btn-anim1 2s linear infinite;
+}
+
+@keyframes btn-anim1 {
+  0% {
+    left: -100%;
+  }
+  50%,100% {
+    left: 100%;
+  }
+}
+
+.content a span:nth-child(2) {
+  top: -100%;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #6def0e);
+  animation: btn-anim2 2s linear infinite;
+  animation-delay: .25s
+}
+
+@keyframes btn-anim2 {
+  0% {
+    top: -100%;
+  }
+  50%,100% {
+    top: 100%;
+  }
+}
+
+.content a span:nth-child(3) {
+  bottom: 0;
+  right: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(270deg, transparent, #6def0e);
+  animation: btn-anim3 2s linear infinite;
+  animation-delay: .5s
+}
+
+@keyframes btn-anim3 {
+  0% {
+    right: -100%;
+  }
+  50%,100% {
+    right: 100%;
+  }
+}
+
+.content a span:nth-child(4) {
+  bottom: -100%;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(360deg, transparent, #6def0e);
+  animation: btn-anim4 2s linear infinite;
+  animation-delay: .75s
+}
+
+@keyframes btn-anim4 {
+  0% {
+    bottom: -100%;
+  }
+  50%,100% {
+    bottom: 100%;
+  }
+}
+
+@keyframes rotate {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+.img-banner{
+  margin-top:450px;
+}
+.img-banner .icon{
+  position: relative;
+}
+.icon-auto{
+  width: 75px;
+}
+.icon-auto.one{
+  top: 250px;
+  left: 10%;
+}
+.icon-auto.two{
+  left: 36%;
+  top: -30px;
+}
+.icon-auto.three{
+  left: 30%;
+  top: -30px;
+}
+.icon-auto.four{
+  left: 40%;
+  top: 120px;
+}
+.icon-auto.fine{
+  left: 20%;
+    top: 117px;
+}
+.icon-auto.six{
+  left: 55%;
+  top: -85px;
+
+}
+.icon-auto.seven{
+  top: 120px;
+  left: 82%;
+}
+
+.icon-auto.eight{
+  left: 64%;
+  top: 15px;
+}
+.icon-auto.nice{
+  top: -74px;
+    left: 23%;
+}
+.icon-auto.then{
+  left: 78%;
+  top: -92px;
+}
+.icon-auto.ele{
+  left: 5%;
+}
+.icon-auto.element{
+  left: 90%;
+}
+.icon-auto {
+  position: absolute;
+  animation: rotate 5s linear infinite;
+  backdrop-filter: blur(2px);
+  background-color: transparent;
+  border-radius: 8px;
+  box-shadow: inset 1px 1px 5px hsla(0,0%,100%,.3), 0 0 5px rgba(0,0,0,.2);
+  color: transparent;
+  padding: 5px 6px;
+}
+@media screen and (max-width: 1080px) {
+  .wapperap {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .content{
+    padding: 32px 32px;
+    max-width: 800px;
+    margin-top: 100px;
+  }
+  .content a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .content p {
+    margin-bottom: 25px;
+    
+  }
+  .img-banner{
+    display: none;
+  }
+  /* .img .icon img{
+    width: 45px;
+  }
+  .icon-auto.one {
+    top: 90px;
+    left: 3%;
+  }
+  .icon-auto.two {
+    left: 4%;
+    top: -30px;
+}
+.icon-auto.then {
+  left: 85%;
+  top: -38px;
+}
+.icon-auto.eight {
+  left: 75%;
+}
+.icon-auto.three {
+  left: 30%;
+  top: -105px;
+}
+.icon-auto.six{
+  left:65%;
+} */
+.colorModeToggle_node_modules-\@docusaurus-theme-classic-lib-theme-Navbar-Content-styles-module{
+  display: block !important;
+}
+}
