@@ -20,6 +20,9 @@ jobs:
         
     - name: Install dependencies
       run: npm ci
+
+    - name: Convert from notion to markdown
+      run: npx @sillsdev/docu-notion -n secret_N3vSnTZoYugicDdCZOBIPzh9APT38RTdIy8USMEHx24 -r 9530c73bb3f04c358532e3f243716143
       
     - name: Build Docusaurus
       run: npm run build
