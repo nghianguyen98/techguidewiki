@@ -28,7 +28,7 @@ jobs:
       run: mkdir -p done/
       
     - name: Move files to custom source folder
-      run: mv * done/
+      run: mv build/* done/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
