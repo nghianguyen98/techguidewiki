@@ -28,7 +28,7 @@ jobs:
       run: |
         git checkout -B gh-pages
         mkdir -p build_done
-        cp -r build/* path-to-publish-dir/
+        cp -r build/* build_done
         git add -A
         git commit -m "Update GitHub Pages"
         git push origin gh-pages
