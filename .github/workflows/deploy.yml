@@ -23,11 +23,7 @@ jobs:
       
     - name: Build Docusaurus
       run: npm run build
-    
-    - name: Copy build to publish_dir in gh-pages branch
-      run: |
-        cp -r build/* build_done/
-
+  
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
