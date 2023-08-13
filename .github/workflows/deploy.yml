@@ -23,6 +23,11 @@ jobs:
       
     - name: Build Docusaurus
       run: npm run build
+    
+    - name: Deploy to custom source folder
+      run: |
+        mkdir -p /done
+        mv * /done
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
