@@ -23,15 +23,9 @@ jobs:
       
     - name: Build Docusaurus
       run: npm run build
-    
-    - name: Create custom source folder
-      run: mkdir -p done/
-      
-    - name: Move files to custom source folder
-      run: mv build/* done/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.TEST_SEC }}
-        publish_dir: ./build  # Đường dẫn đến thư mục build của Docusaurus
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build_done  # Đường dẫn đến thư mục build của Docusaurus
