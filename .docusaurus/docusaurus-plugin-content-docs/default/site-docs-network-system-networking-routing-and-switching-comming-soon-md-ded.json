@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Network---System/Networking/Routing-and-Switching/Comming-soon",
+  "id": "Network---System/Networking/Routing-and-Switching/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Networking/Routing-and-Switching/Comming-soon.md",
+  "sourceDirName": "Network---System/Networking/Routing-and-Switching",
+  "slug": "/8f7c98eb-6ff2-4c86-8f10-3e54cda40361",
+  "permalink": "/docs/8f7c98eb-6ff2-4c86-8f10-3e54cda40361",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Networking/Routing-and-Switching/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/8f7c98eb-6ff2-4c86-8f10-3e54cda40361"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/b930ae49-3eeb-4db8-9c4e-c833de32c9ef"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/5fbb2e5e-4c4f-46a9-a5ab-0da89cc4c0cd"
+  }
+}

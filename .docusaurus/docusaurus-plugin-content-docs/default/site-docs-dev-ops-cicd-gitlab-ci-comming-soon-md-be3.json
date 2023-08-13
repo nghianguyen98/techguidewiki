@@ -1,0 +1,29 @@
+{
+  "unversionedId": "DevOps/CICD/Gitlab-CI/Comming-soon",
+  "id": "DevOps/CICD/Gitlab-CI/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/DevOps/CICD/Gitlab-CI/Comming-soon.md",
+  "sourceDirName": "DevOps/CICD/Gitlab-CI",
+  "slug": "/75192299-a448-4568-8555-00c00f265ff8",
+  "permalink": "/docs/75192299-a448-4568-8555-00c00f265ff8",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DevOps/CICD/Gitlab-CI/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/75192299-a448-4568-8555-00c00f265ff8"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/6f703b80-eeb1-441e-b3d8-729996b4fc89"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/daa46c8c-e0e4-4760-8779-9a81c7b13fd0"
+  }
+}

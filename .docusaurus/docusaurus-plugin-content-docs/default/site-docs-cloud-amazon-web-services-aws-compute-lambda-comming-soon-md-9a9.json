@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Cloud/Amazon-Web-Services-(AWS)/Compute/Lambda/Comming-soon",
+  "id": "Cloud/Amazon-Web-Services-(AWS)/Compute/Lambda/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Cloud/Amazon-Web-Services-(AWS)/Compute/Lambda/Comming-soon.md",
+  "sourceDirName": "Cloud/Amazon-Web-Services-(AWS)/Compute/Lambda",
+  "slug": "/c4d02bd8-580b-49dd-8540-4ef17f13ba17",
+  "permalink": "/docs/c4d02bd8-580b-49dd-8540-4ef17f13ba17",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cloud/Amazon-Web-Services-(AWS)/Compute/Lambda/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/c4d02bd8-580b-49dd-8540-4ef17f13ba17"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/dde261ef-7626-4208-8b93-94b5fa87edf9"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/2d227b95-8841-45d4-aa0c-cc21d9f570cf"
+  }
+}

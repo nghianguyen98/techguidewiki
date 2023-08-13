@@ -1,0 +1,29 @@
+{
+  "unversionedId": "DevOps/Container-Platform/Docker/Comming-soon",
+  "id": "DevOps/Container-Platform/Docker/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/DevOps/Container-Platform/Docker/Comming-soon.md",
+  "sourceDirName": "DevOps/Container-Platform/Docker",
+  "slug": "/3a73a159-9e51-4242-9df5-7c9010c37895",
+  "permalink": "/docs/3a73a159-9e51-4242-9df5-7c9010c37895",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DevOps/Container-Platform/Docker/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/3a73a159-9e51-4242-9df5-7c9010c37895"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/41c00288-791c-47a8-8516-a96ae8571d13"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/71df0144-3d36-4277-ad93-04f6dc86cdbc"
+  }
+}

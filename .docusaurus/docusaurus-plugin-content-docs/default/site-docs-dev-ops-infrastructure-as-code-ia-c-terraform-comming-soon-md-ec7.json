@@ -1,0 +1,29 @@
+{
+  "unversionedId": "DevOps/Infrastructure-as-Code-(IaC)/Terraform/Comming-soon",
+  "id": "DevOps/Infrastructure-as-Code-(IaC)/Terraform/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/DevOps/Infrastructure-as-Code-(IaC)/Terraform/Comming-soon.md",
+  "sourceDirName": "DevOps/Infrastructure-as-Code-(IaC)/Terraform",
+  "slug": "/daa46c8c-e0e4-4760-8779-9a81c7b13fd0",
+  "permalink": "/docs/daa46c8c-e0e4-4760-8779-9a81c7b13fd0",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DevOps/Infrastructure-as-Code-(IaC)/Terraform/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/daa46c8c-e0e4-4760-8779-9a81c7b13fd0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/75192299-a448-4568-8555-00c00f265ff8"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/87fdc7b5-4227-410b-9e80-0ba7e8564746"
+  }
+}

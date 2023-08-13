@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Network---System/Networking/VPN-Configuration/Comming-soon",
+  "id": "Network---System/Networking/VPN-Configuration/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Networking/VPN-Configuration/Comming-soon.md",
+  "sourceDirName": "Network---System/Networking/VPN-Configuration",
+  "slug": "/8b2cfc51-d406-4152-b590-5fd3afd5a26b",
+  "permalink": "/docs/8b2cfc51-d406-4152-b590-5fd3afd5a26b",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Networking/VPN-Configuration/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/8b2cfc51-d406-4152-b590-5fd3afd5a26b"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/5fbb2e5e-4c4f-46a9-a5ab-0da89cc4c0cd"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/fcfd72b5-7a27-443a-a59a-b4e0d72efef7"
+  }
+}
