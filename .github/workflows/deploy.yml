@@ -36,7 +36,13 @@ jobs:
     #     git rm -rf .
     #     git commit -m "Clear gh-pages branch"
     #     git push origin gh-pages
-    
+
+    - name: Delete gh-pages branch
+      run: |
+        git push origin --delete gh-pages || echo "Branch not found, skipping deletion"
+        
+    - name: check branch
+      run: git branch -av 
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
