@@ -29,18 +29,12 @@ jobs:
     
     - name: check branch
       run: git branch -av 
-    # # Xoá hết nội dung trong nhánh gh-pages
-    # - name: Clear gh-pages branch
-    #   run: |
-    #     git checkout gh-pages
-    #     git rm -rf .
-    #     git commit -m "Clear gh-pages branch"
-    #     git push origin gh-pages
-
-    # Sao chép tệp CNAME vào thư mục build
+    
+    - name: List all file
+      run: ls -lah
+        
     - name: Copy CNAME to build directory
       run: |
-        mkdir -p ./build
         cp ./CNAME ./build/
 
     - name: Deploy to GitHub Pages
