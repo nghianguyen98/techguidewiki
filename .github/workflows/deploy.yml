@@ -1,6 +1,8 @@
 name: Build and Deploy Docusaurus
 
 on:
+  schedule:
+    - cron: '*/10 * * * *' # Mỗi 10 phút
   push:
     branches:
       - main 
@@ -32,7 +34,7 @@ jobs:
     
     - name: List all file
       run: ls -lah
-        
+
     - name: Copy CNAME to build directory
       run: |
         cp ./CNAME ./build/

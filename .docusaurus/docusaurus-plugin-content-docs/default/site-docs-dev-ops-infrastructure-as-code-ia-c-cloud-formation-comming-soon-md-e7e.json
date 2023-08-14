@@ -1,0 +1,29 @@
+{
+  "unversionedId": "DevOps/Infrastructure-as-Code-(IaC)/CloudFormation/Comming-soon",
+  "id": "DevOps/Infrastructure-as-Code-(IaC)/CloudFormation/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/DevOps/Infrastructure-as-Code-(IaC)/CloudFormation/Comming-soon.md",
+  "sourceDirName": "DevOps/Infrastructure-as-Code-(IaC)/CloudFormation",
+  "slug": "/87fdc7b5-4227-410b-9e80-0ba7e8564746",
+  "permalink": "/docs/87fdc7b5-4227-410b-9e80-0ba7e8564746",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DevOps/Infrastructure-as-Code-(IaC)/CloudFormation/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/87fdc7b5-4227-410b-9e80-0ba7e8564746"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/daa46c8c-e0e4-4760-8779-9a81c7b13fd0"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/41c00288-791c-47a8-8516-a96ae8571d13"
+  }
+}

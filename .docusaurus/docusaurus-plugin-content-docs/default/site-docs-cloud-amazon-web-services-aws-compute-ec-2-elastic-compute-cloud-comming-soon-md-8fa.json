@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Cloud/Amazon-Web-Services-(AWS)/Compute/EC2-(Elastic-Compute-Cloud)/Comming-soon",
+  "id": "Cloud/Amazon-Web-Services-(AWS)/Compute/EC2-(Elastic-Compute-Cloud)/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Cloud/Amazon-Web-Services-(AWS)/Compute/EC2-(Elastic-Compute-Cloud)/Comming-soon.md",
+  "sourceDirName": "Cloud/Amazon-Web-Services-(AWS)/Compute/EC2-(Elastic-Compute-Cloud)",
+  "slug": "/dde261ef-7626-4208-8b93-94b5fa87edf9",
+  "permalink": "/docs/dde261ef-7626-4208-8b93-94b5fa87edf9",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cloud/Amazon-Web-Services-(AWS)/Compute/EC2-(Elastic-Compute-Cloud)/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/dde261ef-7626-4208-8b93-94b5fa87edf9"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/a7eab833-e7d2-4b54-bcb3-01a71d2cf9c7"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/c4d02bd8-580b-49dd-8540-4ef17f13ba17"
+  }
+}

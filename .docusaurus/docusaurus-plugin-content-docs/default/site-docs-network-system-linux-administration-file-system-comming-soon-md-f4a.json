@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Network---System/Linux-Administration/File-System/Comming-soon",
+  "id": "Network---System/Linux-Administration/File-System/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Linux-Administration/File-System/Comming-soon.md",
+  "sourceDirName": "Network---System/Linux-Administration/File-System",
+  "slug": "/67972286-85f0-45e7-8e57-108bea8a4272",
+  "permalink": "/docs/67972286-85f0-45e7-8e57-108bea8a4272",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Linux-Administration/File-System/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/67972286-85f0-45e7-8e57-108bea8a4272"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/ee4c016a-5dfb-4acd-9583-754bbced289e"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Cloud/Amazon-Web-Services-(AWS)/Management-&-Governance/CloudWatch/Comming-soon",
+  "id": "Cloud/Amazon-Web-Services-(AWS)/Management-&-Governance/CloudWatch/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Cloud/Amazon-Web-Services-(AWS)/Management-&-Governance/CloudWatch/Comming-soon.md",
+  "sourceDirName": "Cloud/Amazon-Web-Services-(AWS)/Management-&-Governance/CloudWatch",
+  "slug": "/a4f1f89d-256e-4ca1-88a8-103190bf3d07",
+  "permalink": "/docs/a4f1f89d-256e-4ca1-88a8-103190bf3d07",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cloud/Amazon-Web-Services-(AWS)/Management-&-Governance/CloudWatch/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/a4f1f89d-256e-4ca1-88a8-103190bf3d07"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/6790e962-7708-46ac-bc9d-7607055b2000"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/aff4ca0f-d794-4e6e-8674-ce12a101d023"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Network---System/Backup-Planning/Files/Comming-soon",
+  "id": "Network---System/Backup-Planning/Files/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Backup-Planning/Files/Comming-soon.md",
+  "sourceDirName": "Network---System/Backup-Planning/Files",
+  "slug": "/54cbef43-95d5-449d-a7db-99b9ddd0bfb3",
+  "permalink": "/docs/54cbef43-95d5-449d-a7db-99b9ddd0bfb3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Backup-Planning/Files/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/54cbef43-95d5-449d-a7db-99b9ddd0bfb3"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/40b017ed-28dc-4ecb-8cfa-96cd05539eb1"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/fbc9b0d0-04ba-4976-90ea-5b2c665559fd"
+  }
+}

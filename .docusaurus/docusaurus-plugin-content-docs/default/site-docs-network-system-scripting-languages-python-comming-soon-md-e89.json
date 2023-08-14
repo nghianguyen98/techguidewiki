@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Network---System/Scripting-Languages/Python/Comming-soon",
+  "id": "Network---System/Scripting-Languages/Python/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Scripting-Languages/Python/Comming-soon.md",
+  "sourceDirName": "Network---System/Scripting-Languages/Python",
+  "slug": "/b74e2a72-a13e-4f4c-bf7d-aaeafc9652d2",
+  "permalink": "/docs/b74e2a72-a13e-4f4c-bf7d-aaeafc9652d2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Scripting-Languages/Python/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/b74e2a72-a13e-4f4c-bf7d-aaeafc9652d2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/05b5532f-34b7-41cb-b24d-a65e88ccca83"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/869daff0-d239-42e0-a0aa-67a6a56db3ef"
+  }
+}

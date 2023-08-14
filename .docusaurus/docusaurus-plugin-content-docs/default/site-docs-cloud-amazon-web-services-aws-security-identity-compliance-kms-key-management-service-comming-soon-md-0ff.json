@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Cloud/Amazon-Web-Services-(AWS)/Security,-Identity-&-Compliance/KMS-(Key-Management-Service)/Comming-soon",
+  "id": "Cloud/Amazon-Web-Services-(AWS)/Security,-Identity-&-Compliance/KMS-(Key-Management-Service)/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Cloud/Amazon-Web-Services-(AWS)/Security,-Identity-&-Compliance/KMS-(Key-Management-Service)/Comming-soon.md",
+  "sourceDirName": "Cloud/Amazon-Web-Services-(AWS)/Security,-Identity-&-Compliance/KMS-(Key-Management-Service)",
+  "slug": "/6790e962-7708-46ac-bc9d-7607055b2000",
+  "permalink": "/docs/6790e962-7708-46ac-bc9d-7607055b2000",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cloud/Amazon-Web-Services-(AWS)/Security,-Identity-&-Compliance/KMS-(Key-Management-Service)/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/6790e962-7708-46ac-bc9d-7607055b2000"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/e893e8de-e3ea-4c18-9320-9e2046eceda2"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/a4f1f89d-256e-4ca1-88a8-103190bf3d07"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Network---System/Database-Administration/PostgreSQL/Comming-soon",
+  "id": "Network---System/Database-Administration/PostgreSQL/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Network---System/Database-Administration/PostgreSQL/Comming-soon.md",
+  "sourceDirName": "Network---System/Database-Administration/PostgreSQL",
+  "slug": "/1c1f4612-3fd5-451e-969d-26f5a47c5eeb",
+  "permalink": "/docs/1c1f4612-3fd5-451e-969d-26f5a47c5eeb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Network---System/Database-Administration/PostgreSQL/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/1c1f4612-3fd5-451e-969d-26f5a47c5eeb"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/6de4abd7-b0bf-48df-8c60-47083805287a"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/f53c4e0d-2135-4670-b804-1858476b081f"
+  }
+}

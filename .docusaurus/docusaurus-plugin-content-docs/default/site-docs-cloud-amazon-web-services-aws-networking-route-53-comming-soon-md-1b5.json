@@ -1,0 +1,29 @@
+{
+  "unversionedId": "Cloud/Amazon-Web-Services-(AWS)/Networking/Route-53/Comming-soon",
+  "id": "Cloud/Amazon-Web-Services-(AWS)/Networking/Route-53/Comming-soon",
+  "title": "Comming soon",
+  "description": "Technical Documentation - Coming Soon!",
+  "source": "@site/docs/Cloud/Amazon-Web-Services-(AWS)/Networking/Route-53/Comming-soon.md",
+  "sourceDirName": "Cloud/Amazon-Web-Services-(AWS)/Networking/Route-53",
+  "slug": "/09d7c45a-37c8-48c3-886b-e8a36468e56f",
+  "permalink": "/docs/09d7c45a-37c8-48c3-886b-e8a36468e56f",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cloud/Amazon-Web-Services-(AWS)/Networking/Route-53/Comming-soon.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Comming soon",
+    "sidebar_position": 0,
+    "slug": "/09d7c45a-37c8-48c3-886b-e8a36468e56f"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comming soon",
+    "permalink": "/docs/ea112448-a40e-4bbc-801a-0b3e422ec45d"
+  },
+  "next": {
+    "title": "Comming soon",
+    "permalink": "/docs/71dc791f-72d1-4c41-9ab5-083c52aef8dd"
+  }
+}
