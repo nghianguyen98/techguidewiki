@@ -37,12 +37,11 @@ jobs:
     #     git commit -m "Clear gh-pages branch"
     #     git push origin gh-pages
 
-    - name: Delete gh-pages branch
+    # Sao chép tệp CNAME vào thư mục build
+    - name: Copy CNAME to build directory
       run: |
-        git push origin --delete gh-pages || echo "Branch not found, skipping deletion"
-        
-    - name: check branch
-      run: git branch -av 
+        mkdir -p ./build
+        cp ./CNAME ./build/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
