@@ -26,7 +26,12 @@ jobs:
       
     - name: Build Docusaurus
       run: npm run build
-  
+
+    - name: Clean up
+      run: |
+        git checkout main
+        git branch -D gh-pages
+        
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
