@@ -12,7 +12,7 @@ export default function Home() {
       <div className="content">
         <h3>Hello 👋</h3>
         <p>Welcome to our website - a personal space dedicated to sharing knowledge about DevOps and System Administration. Here, I provide documentation authored by individuals, not from official sources. The insights, guides, and information on this website stem from passionate technology enthusiasts who aim to contribute to the sharing and broadening of understanding in these two crucial domains.</p>
-        <a href="/docs/wellcome"><span></span>
+        <a href="/docs/ae31b3e1-636f-49b7-86c4-e683ce3fab89"><span></span>
       <span></span>
       <span></span>
       <span></span>Explore</a>
