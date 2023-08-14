@@ -27,11 +27,10 @@ jobs:
     - name: Build Docusaurus
       run: npm run build
 
-    - name: Clean up
+    - name: Delete gh-pages branch
       run: |
-        git checkout main
-        git branch -D gh-pages
-        
+        git push origin --delete gh-pages || echo "Branch not found, skipping deletion"
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
