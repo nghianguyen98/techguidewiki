@@ -2,7 +2,7 @@ name: Build and Deploy Docusaurus
 
 on:
   schedule:
-    - cron: '35 23 * * *' # Mỗi ngày lúc 23:30
+    - cron: '36 23 * * *' # Mỗi ngày lúc 23:30
   push:
     branches:
       - main 
